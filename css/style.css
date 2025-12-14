@@ -160,9 +160,9 @@ body {
 
 .top-img {
     position: absolute;
-    width: 250px;
+    width: 550px;
     bottom: 60px;
-    left: 170px;
+    
     border-radius: 20px;
 }
 
@@ -351,4 +351,11 @@ letters-box {
     font-size: 27px;
     display: block;
     margin-top: 5px;
+}
+.top-img1 {
+    position: absolute;
+    width: 250px;
+    bottom: 60px;
+    left: 170px;
+    border-radius: 20px;
 }

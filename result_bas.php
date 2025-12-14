@@ -41,7 +41,7 @@
   </div>
 </nav>
 <section class="back_playing">
-    <img class="top-img" src="images/ramses eltany.jpg" >
+    <img class="top-img1" src="images/ramses eltany.jpg" >
 
    <div class="right-box2">
         <h2 class="level-title2"> اللعز الاول</h2>

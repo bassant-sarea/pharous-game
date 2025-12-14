@@ -30,8 +30,6 @@
         
         <ul class="navbar-nav mb-2 mb-lg-0">
           <li class="nav-item"><a class="nav-link" href="test.html"> تواصل معنا </a></li>
-          <li class="nav-item"><a class="nav-link" href="">ابدأ اللعب </a></li>
-          <li class="nav-item"><a class="nav-link" href="#">عن اللعبة</a></li>
           <li class="nav-item"><a class="nav-link" href="#">الرئيسية</a></li>
         </ul>
         <a class="btn login-btn me-2" href="landing2.html">تسجيل الدخول</a>
@@ -47,7 +45,7 @@
   <div class="hero-content">
     <h1 style="font-family: 'Amiri', serif; font-size: 48px; margin-bottom: 20px;">رحلة في عالم المصريين القدماء</h1>
     <p style="font-size: 20px; margin-bottom: 40px;">من الهيروغليفية إلى الأهرامات، كل رحلة مغامرة جديدة تنتظرك.</p>
-    <a class="hero-btn" href="test.html">اكتشف الأسرار</a>
+    <a class="hero-btn" href="level 5 1.html">اكتشف الأسرار</a>
   </div>
 </section>
 

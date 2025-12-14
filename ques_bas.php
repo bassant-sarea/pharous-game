@@ -94,7 +94,7 @@
 
         <p class="note">ملاحظة: الحروف تُقرأ من اليمين إلى اليسار</p>
 
-        <button class="result-btn">اكتشف النتيجة</button>
+        <button class="result-btn" onclick="window.location.href='result.html'" >اكتشف النتيجة</button>
 
         <a class="end-link" href="landing2.html">إنهاء المغامرة</a>
     </div>
